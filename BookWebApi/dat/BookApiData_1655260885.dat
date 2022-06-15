@@ -1,0 +1,19 @@
+[
+  {
+    "Title": "Slaughter House 5",
+    "Description": "A big book bad choices can make young men victims",
+    "Author": {
+      "FirstName": "Kurt",
+      "LastName": "Vonnegut",
+      "Pseudonym": null,
+      "User": {
+        "Username": "kv",
+        "EmailAddress": "kurt.vonnegut@gmail.com",
+        "Password": "Slaughterhouse4"
+      }
+    },
+    "Image": "img1.jpg",
+    "Price": 7.99,
+    "PublishedDate": "2022-06-14T22:41:25.0637734-04:00"
+  }
+]
